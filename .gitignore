@@ -25,3 +25,6 @@ capture/
 
 # Node.js
 node_modules/
+
+# Local SeDriCa build products and recorded evidence.
+/artifacts/
